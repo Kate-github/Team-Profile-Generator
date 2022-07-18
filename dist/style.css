@@ -1,0 +1,38 @@
+header{
+    float: center;
+    background-color: blue;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+.container{
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.card {
+    border-color: grey;
+    background-color: lightcyan;
+}
+
+.card-body{
+    background-color: rgb(50, 50, 212);
+}
+.col-3{
+    margin: 20px;
+}
+
+.card-text, .list-group-item {
+    font-weight: 500;
+}
+
+.card-title, .card-text{
+    color: whitesmoke;
+}
+
+
+
+
+
+
