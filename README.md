@@ -14,3 +14,6 @@ Criteria:
     <li> Demonstrate how a user would invoke the application from the command line </li>
     <li> Demonstrate a generated HTML file that matches the user input </li>
 </ol>
+
+Application example:
+![alt text](./Web%20capture_18-7-2022_16043_127.0.0.1.jpeg)
